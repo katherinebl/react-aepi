@@ -1,0 +1,21 @@
+.parrafo {
+  background-color: palevioletred;
+  font-size: 24px;
+}
+
+.parrafo:hover {
+  background-color: lightskyblue;
+}
+
+.parrafo.verde {
+  background-color: lightgreen;
+}
+
+.parrafo.verde:hover {
+  background-color: green;
+}
+
+/* PARA ESTILOS GLOBALES */
+/* :global .btn {
+  background-color: grey;
+} */

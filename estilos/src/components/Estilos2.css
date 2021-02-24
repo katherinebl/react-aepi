@@ -1,0 +1,19 @@
+.contador {
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.bajo {
+  background-color: rgb(231, 245, 171);
+}
+
+.medio {
+  background-color: rgb(136, 252, 232);
+}
+
+.alto {
+  background-color: rgb(140, 203, 255);
+}
